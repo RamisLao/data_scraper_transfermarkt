@@ -1,0 +1,188 @@
+Afghanistan:1
+Egypt:2
+Albania:3
+Algeria:4
+Andorra:5
+Angola:6
+Antigua and Barbuda:7
+Equatorial Guinea:8
+Argentina:9
+Armenia:10
+Ethiopia:11
+Australia:12
+Azerbaijan:13
+Bahamas:14
+Bahrain:15
+Bangladesh:16
+Barbados:17
+Belarus:18
+Belgium:19
+Belize:20
+Benin:21
+Bhutan:22
+Bolivia:23
+Bosnia-Herzegovina:24
+Botswana:25
+Brazil:26
+Brunei Darussalam:27
+Bulgaria:28
+Burkina Faso:29
+Burundi:30
+Cameroon:31
+Cape Verde:32
+Chile:33
+China:34
+Comoros:35
+Costa Rica:36
+Croatia:37
+Ivory Coast:38
+Denmark:39
+Germany:40
+Djibouti:41
+Dominica:42
+Dominican Republic:43
+Ecuador:44
+El Salvador:45
+Eritrea:46
+Estonia:47
+Fiji:48
+Finland:49
+France:50
+Gabon:51
+The Gambia:52
+Georgia:53
+Ghana:54
+Grenada:55
+Greece:56
+Guatemala:58
+Guinea:59
+Guinea-Bissau:60
+Guyana:61
+Haiti:62
+Honduras:66
+India:67
+Indonesia:68
+Solomon Islands:69
+Iraq:70
+Iran:71
+Republic of Ireland:72
+Iceland:73
+Israel:74
+Italy:75
+Jamaica:76
+Japan:77
+Jordan:78
+Cambodia:79
+Canada:80
+Kazakhstan:81
+Kenya:82
+Colombia:83
+Republic of the Congo:85
+North Korea:86
+South Korea:87
+Cuba:88
+Kuwait:89
+Kyrgyzstan:90
+Laos:91
+Latvia:92
+Lesotho:93
+Lebanon:94
+Liberia:95
+Libya:96
+Liechtenstein:97
+Lithuania:98
+Luxembourg:99
+Macedonia:100
+Madagascar:101
+Malawi:102
+Malaysia:103
+Maldives:104
+Mali:105
+Malta:106
+Morocco:107
+Mauritania:108
+Mauritius:109
+Mexico:110
+Micronesia:111
+Moldova:112
+Monaco:113
+Mongolia:114
+Mozambique:115
+Myanmar:116
+Namibia:117
+Nauru:118
+Nepal:119
+New Zealand:120
+Nicaragua:121
+Netherlands:122
+Niger:123
+Nigeria:124
+Norway:125
+Oman:126
+Austria:127
+Pakistan:128
+Palau:129
+Panama:130
+Papua New Guinea:131
+Paraguay:132
+Peru:133
+Philippines:134
+Poland:135
+Portugal:136
+Qatar:137
+Central African Republic:138
+Rwanda:139
+Romania:140
+Russia:141
+Zambia:142
+Samoa:143
+San Marino:144
+São Tomé and Príncipe:145
+Saudi Arabia:146
+Sweden:147
+Switzerland:148
+Senegal:149
+Serbia and Montenegro:150
+Seychelles:151
+Sierra Leone:152
+Singapore:153
+Slovakia:154
+Slovenia:155
+Somalia:156
+Spain:157
+Sri Lanka:158
+South Africa:159
+Sudan:160
+Suriname:161
+Swaziland:162
+Syria:163
+Chinese Taipei (Taiwan):164
+Tajikistan:165
+Tanzania:166
+Thailand:167
+Togo:168
+Tonga:169
+Trinidad and Tobago:170
+Chad:171
+Czech Republic:172
+Tunisia:173
+Turkey:174
+Turkmenistan:175
+Uganda:176
+Ukraine:177
+Hungary:178
+Uruguay:179
+Uzbekistan:180
+Vanuatu:181
+Venezuela:182
+United Arab Emirates:183
+United States:184
+Vietnam:185
+Yemen:186
+Zimbabwe:187
+Cyprus:188
+England:189
+Scotland:190
+Wales:191
+Northern Ireland:192
+Democratic Republic of the Congo:193
