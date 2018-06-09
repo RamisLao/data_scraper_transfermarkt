@@ -60,7 +60,7 @@ def get_players_data(start_idx):
         
     length = len(players_urls)
     
-    for player in players_urls[start_idx:10]:
+    for player in players_urls[start_idx:]:
         error = False
         
         defaults = OrderedDict([('Name',"Undefined"), ('Date of birth',"Undefined"), ('Place of birth',"Undefined"),
@@ -163,4 +163,4 @@ def get_players_data(start_idx):
     return
 
 if __name__ == "__main__":
-    get_players_data(1)
+    get_players_data(0)

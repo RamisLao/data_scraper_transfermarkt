@@ -89,6 +89,6 @@ def iterate_through_teams(start_idx):
     return
 
 if __name__ == "__main__":
-    iterate_through_teams(142)
+    iterate_through_teams()
     
     
