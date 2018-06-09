@@ -6,6 +6,9 @@ Created on Sun Jun  3 15:47:27 2018
 @author: joseramon
 """
 
+from unidecode import unidecode
+from urllib import unquote
+
 """
 Request Headers for the GET Request
 """
@@ -50,13 +53,19 @@ def read_from_file(file_path):
             
     return file_in_list
 
-def append_to_tsv(dataset, file_path):
+def append_to_tsv(player, file_path):
     """
     Function to append new data into a tsv file
     """
     with open(file_path, 'a') as f:
-        for player in dataset:
-            f.write('\t'.join(player)+'\n')
+        f.write('\t'.join(player)+'\n')
+            
+def append_to_csv(player, file_path):
+    """
+    Function to append new data into a tsv file
+    """
+    with open(file_path, 'a') as f:
+        f.write(','.join(player)+'\n')
         
 def append_to_file(line, file_path):
     """
@@ -65,4 +74,14 @@ def append_to_file(line, file_path):
     with open(file_path, 'a') as f:
         f.write(line+'\n')
 
+def process_info(info):
+    try:
+        processed = unquote(info)
+    except:
+        processed = info
+        pass
+    if isinstance(processed, unicode):
+        processed = unidecode(processed)
+        
+    return processed
 

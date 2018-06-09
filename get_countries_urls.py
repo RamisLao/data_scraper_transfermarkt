@@ -35,8 +35,8 @@ COUNTRIES = ['England',
 File paths where the data will be saved.
 """
 
-COUNTRIES_DICT_FILE_PATH = "countries_dict.txt"
-COUNTRIES_FILE_PATH = "countries_urls.txt"
+COUNTRIES_DICT_FILE_PATH = "./data/countries_dict.txt"
+COUNTRIES_FILE_PATH = "./data/countries_urls.txt"
 
 
 def iterate_through_countries(countries):
@@ -58,7 +58,7 @@ def iterate_through_countries(countries):
             
     save_to_file(list_of_countries_urls, COUNTRIES_FILE_PATH)
     
-    return list_of_countries_urls
+    return
 
 if __name__ == "__main__":
     
